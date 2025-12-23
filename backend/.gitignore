@@ -1,0 +1,12 @@
+node_modules/
+.env
+logs/
+*.log
+coverage/
+c8-report/
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
+*.swp
+*.bak

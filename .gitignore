@@ -1,0 +1,61 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build / output
+dist/
+build/
+out/
+client/build/
+frontend/build/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+pgdata/
+postgres-data/
+
+# Docker
+docker-compose.override.yml
+
+# Editor / OS files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+# Caches / framework artifacts
+.cache/
+.next/
+.nuxt/
+.vercel/
+.parcel-cache/
+.sass-cache/
